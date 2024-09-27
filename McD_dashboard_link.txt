@@ -1,3 +1,3 @@
-Dashboard 1 - https://public.tableau.com/views/McDonaldsDatasetInsights/Top10fooditems?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+McDonald's Nutrition Insights Dashboard 1 - https://public.tableau.com/views/McDonaldsDatasetInsightsPart1/Top10fooditems?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-Dashboard 2 - https://public.tableau.com/views/McDonaldsDatasetInsights-Correlations/Correlations?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+McDonald's Nutrition Insights Dashboard 2 - https://public.tableau.com/views/McDonaldsDatasetInsightsPart2/Correlations?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
