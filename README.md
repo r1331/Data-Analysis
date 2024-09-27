@@ -1,1 +1,1 @@
-Tasks I completed as an data analyst intern at Oasis Infobyte.
+Tasks I completed as a data analyst intern at Oasis Infobyte.
